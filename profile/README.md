@@ -5,8 +5,8 @@
 
 # About us
 
-
-Ecobertura is a company that is constantly innovating, both in its methods of pheromone synthesis and trap design, and in the implementation of new communication technologies for monitoring agricultural and forestry pests. By unifying all these tools, Ecobertura aims to facilitate and promote environmentally friendly pest control.
+<div style="text-align: justify"> Ecobertura is a company that is constantly innovating, both in its methods of pheromone synthesis and trap design, and in the implementation of new communication technologies for monitoring agricultural and forestry pests. By unifying all these tools, Ecobertura aims to facilitate and promote environmentally friendly pest control.
+</div>
 
 <!--
 
