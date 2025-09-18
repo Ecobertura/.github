@@ -1,11 +1,6 @@
-<p align="left" padding=20>
-  <a href="README.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="32" />
-  </a>
-  <a href="README.es.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="32" />
-  </a>
-</p>
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![Español](https://img.shields.io/badge/lang-Español-red.svg)](README.es.md)
+
 
 
 # About us
