@@ -1,6 +1,6 @@
-<p align="left">
+<p align="left" padding=20>
   <a href="README.md">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" width="32" style="margin-right:15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="32" />
   </a>
   <a href="README.es.md">
     <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="32" />
