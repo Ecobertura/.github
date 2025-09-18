@@ -1,9 +1,9 @@
 [sp](https://github.com/Ecobertura/.github/blob/main/profile/Readme.es.md)
 
-# Sobre nosotros
+# About us
 
-Ecobertura es una empresa que está constantemente innovando, ya sea en sus métodos de síntesis de feromonas y diseño de trampas, como en la implementación de las nuevas tecnologías de la comunicación para el seguimiento de plagas agrícolas o forestales.  Unificando todas estas herramientas, Ecobertura tiene como propósito facilitar y fomentar un control de plagas respetuoso con el medio ambiente.
 
+Ecobertura is a company that is constantly innovating, both in its methods of pheromone synthesis and trap design, and in the implementation of new communication technologies for monitoring agricultural and forestry pests. By unifying all these tools, Ecobertura aims to facilitate and promote environmentally friendly pest control.
 
 <!--
 
